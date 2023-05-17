@@ -146,4 +146,24 @@ let numbers = [11, 22, 33, 44, 55]; // number -> array, start with 0;
 // //   console.log(numbers[index]);
 // }
 
-// BANkist -> APP (array, -> )
+// LOOP:
+
+// switch (break); // return -->
+
+// BREAK
+// for (let i = 0; i < 7; i++) {
+//   if (i == 5) {
+//     break;
+//   }
+//   console.log(i);
+// }
+
+///////
+
+// CONTINUE:
+// for (let i = 0; i < 5; i++) {
+//   if (i == 3) {
+//     continue; // 3 ->
+//   }
+//   console.log(i);
+// }
